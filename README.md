@@ -8,5 +8,5 @@
     2. Things we need:
     
        * [ ] Hosting (we're thinking heroku)
-       * [ ] git repo (public github)
+       * [x] git repo (public github)
        * [ ] ci (travis?)
